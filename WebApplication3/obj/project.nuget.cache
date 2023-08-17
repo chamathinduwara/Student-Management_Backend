@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XO49EHsY4Frrzo1i7B4t9+Zqc9bZj6DdpDX39FSXPMpTcw5bA/ZMkYq8uR2vFaQ84cFJA97LXAqBaJt5fuoq6w==",
+  "dgSpecHash": "Q4cDOSs1Q0tNJfJVKESseeZEQJNbImNQy6Gcrtn/5Re17Qgl9YP4qovmBAb8dgDUVm2Rauk/oA/3os7AmYWFlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chama\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "projectFilePath": "C:\\Users\\chama\\source\\repos\\WebApplication3\\WebApplication3\\StudentManagementBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chama\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\chama\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
